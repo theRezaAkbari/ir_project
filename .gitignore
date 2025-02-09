@@ -1,1 +1,4 @@
 myenv/
+myenv/
+*.dll
+*.lib
